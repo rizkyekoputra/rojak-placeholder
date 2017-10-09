@@ -964,9 +964,9 @@ form.news-letter .btn:hover{
 
 /* 9.4 - media screen and (max-width: 412px)
 ------------------------------------------------ */
-@media screen and (max-width: 412px){
+@media screen and (max-width: 360px){
     .site-title {
-        font-size: 47px;
+        font-size: 55px;
     }
 }
 /* 9.4 - media screen and (max-width: 412px) End
