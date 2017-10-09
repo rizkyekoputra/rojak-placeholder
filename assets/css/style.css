@@ -951,7 +951,6 @@ form.news-letter .btn:hover{
 /* 9.2 - media screen and (max-width: 768px) End
 ------------------------------------------------ */
 
-
 /* 9.3 - media screen and (max-width: 1170px)
 ------------------------------------------------ */
 @media (min-width: 1170px){
@@ -964,13 +963,45 @@ form.news-letter .btn:hover{
 
 /* 9.4 - media screen and (max-width: 412px)
 ------------------------------------------------ */
+@media screen and (max-width: 412px){
+    .site-title {
+        font-size: 63px;
+    }
+}
+/* 9.4 - media screen and (max-width: 412px) End
+------------------------------------------------ */
+
+/* 9.5 - media screen and (max-width: 375px)
+------------------------------------------------ */
+@media screen and (max-width: 375px){
+    .site-title {
+        font-size: 58px;
+    }
+}
+/* 9.5 - media screen and (max-width: 375px) End
+------------------------------------------------ */
+
+/* 9.6 - media screen and (max-width: 360px)
+------------------------------------------------ */
 @media screen and (max-width: 360px){
     .site-title {
         font-size: 55px;
     }
 }
-/* 9.4 - media screen and (max-width: 412px) End
+/* 9.6 - media screen and (max-width: 360px) End
 ------------------------------------------------ */
+
+/* 9.7 - media screen and (max-width: 320px)
+------------------------------------------------ */
+@media screen and (max-width: 320px){
+    .site-title {
+        font-size: 49px;
+    }
+}
+/* 9.7 - media screen and (max-width: 320px) End
+------------------------------------------------ */
+
+
 
 /* 9 - Media Query End
 ---------------------------------------------------------------------- */
